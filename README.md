@@ -21,3 +21,4 @@ see you soon
 - gessate
 - gioia
 - lambrate
+- lanza
