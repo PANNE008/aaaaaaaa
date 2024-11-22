@@ -8,3 +8,4 @@ see you soon
 - maciachini
 - zara
 - sondrio
+- centrale
