@@ -7,3 +7,4 @@ see you soon
 - dergano
 - maciachini
 - zara
+- sondrio
