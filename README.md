@@ -14,3 +14,4 @@ see you soon
 - cimiano
 - cologno centro
 - cologno nord
+- cologno sud
