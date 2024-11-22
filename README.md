@@ -22,3 +22,4 @@ see you soon
 - gioia
 - lambrate
 - lanza
+- loreto
