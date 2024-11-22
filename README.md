@@ -13,3 +13,4 @@ see you soon
 - cernusco
 - cimiano
 - cologno centro
+- cologno nord
