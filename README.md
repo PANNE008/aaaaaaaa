@@ -13,3 +13,7 @@ see you soon
 - turati
 - montenapoleone
 - duomo
+### metro rossa
+- san babila
+- palestro
+-
