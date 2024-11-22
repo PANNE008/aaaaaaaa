@@ -6,3 +6,4 @@ see you soon
 - affori centro
 - dergano
 - maciachini
+- zara
