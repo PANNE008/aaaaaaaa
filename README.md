@@ -12,3 +12,4 @@ see you soon
 ### Metro verde
 - cernusco
 - cimiano
+- cologno centro
