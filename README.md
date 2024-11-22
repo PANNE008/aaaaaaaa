@@ -15,4 +15,5 @@ see you soon
 - duomo
 ### metro rossa
 - san babila
-- 
+- palestro
+- porta venezia
