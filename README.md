@@ -16,3 +16,4 @@ see you soon
 - cologno nord
 - cologno sud
 - crescenzago
+- famagosta
