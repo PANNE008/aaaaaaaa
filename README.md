@@ -32,3 +32,4 @@ see you soon
 - udine
 - villa fiorita
 - villa pompea
+- vimodrone
