@@ -23,3 +23,4 @@ see you soon
 - rovereto
 - turro
 - gorla
+- precotto
