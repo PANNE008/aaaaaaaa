@@ -12,3 +12,4 @@ see you soon
 - repubblica
 - turati
 - montenapoleone
+- duomo
