@@ -16,3 +16,4 @@ see you soon
 - san babila
 - tricolore
 - dateo
+- susa
