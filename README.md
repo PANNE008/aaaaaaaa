@@ -18,3 +18,4 @@ see you soon
 - palestro
 - porta venezia
 - lima
+- loreto
