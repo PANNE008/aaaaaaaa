@@ -9,3 +9,4 @@ see you soon
 - zara
 - sondrio
 - centrale
+- repubblica
