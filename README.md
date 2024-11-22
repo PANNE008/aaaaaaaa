@@ -11,3 +11,4 @@ see you soon
 - isola
 - garibaldi
 - monumentale
+- cenisio
