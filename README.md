@@ -21,3 +21,4 @@ see you soon
 - corvetto
 - porto di mare
 - rogoredo
+- san donato
