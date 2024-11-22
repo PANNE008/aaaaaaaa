@@ -10,3 +10,4 @@ see you soon
 - sondrio
 - centrale
 - repubblica
+- turati
