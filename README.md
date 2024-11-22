@@ -17,3 +17,4 @@ see you soon
 - tre torri
 - portello
 - lotto
+- segesta
