@@ -19,3 +19,4 @@ see you soon
 - lotto
 - segesta
 - san siro ippodromo
+- san siro stadio
