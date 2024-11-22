@@ -4,3 +4,4 @@ see you soon
 - comasina
 - affori fn
 - affori centro
+- dergano
