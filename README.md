@@ -20,3 +20,4 @@ see you soon
 - lima
 - loreto
 - pasteur
+- rovereto
