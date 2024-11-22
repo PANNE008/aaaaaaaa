@@ -13,3 +13,4 @@ see you soon
 - monumentale
 - cenisio
 - gerusalemme
+- domodossola
