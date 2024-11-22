@@ -21,3 +21,4 @@ see you soon
 - loreto
 - pasteur
 - rovereto
+- turro
