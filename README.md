@@ -15,3 +15,4 @@ see you soon
 - duomo
 - san babila
 - tricolore
+- dateo
