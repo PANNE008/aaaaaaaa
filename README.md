@@ -16,3 +16,4 @@ see you soon
 - domodossola
 - tre torri
 - portello
+- lotto
